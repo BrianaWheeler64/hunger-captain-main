@@ -4,14 +4,14 @@ This is an online food menu service of a restaurant. These days, when you visit 
 ```
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 Check out [FRONTEND LIVE DEMO](https://hunger-cap-frontend.abhinandv1.repl.co) here!!
-Check out [API LIVE DEMO](https://hunger-cap-backend.abhinandv1.repl.co) here!!
+Check out [API LIVE DEMO]() here!!
 ## Tech used
 ```
 * Frontend : React & Redux
 * Backend : Django
 ```
 ## How to Install
-1. Git Clone https://github.com/AbhinandVJ6/Hunger-Captain
+1. Git Clone ()
 ```
 2. Backend setting
 ```
