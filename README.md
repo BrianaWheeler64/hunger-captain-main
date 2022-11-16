@@ -3,15 +3,15 @@
 This is an online food menu service of a restaurant. These days, when you visit a restaurant, you often use the QR code to load the PDF of the menu. It has no image and is not easy to select items. So we created the menu app where you can see food images with the needed information and select your items easily. During such unprecedented time and social distancing, online menu card technology is a boon!
 ```
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO](https://hunger-cap-frontend.abhinandv1.repl.co) here!!
-Check out [API LIVE DEMO]() here!!
+
+Check out [API LIVE DEMO](https://hunger-captain-frontend.brianawheeler.repl.co) here!!
 ## Tech used
 ```
 * Frontend : React & Redux
 * Backend : Django
 ```
 ## How to Install
-1. Git Clone ()
+1. Git Clone (https://github.com/BrianaWheeler64/hunger-captain-main)
 ```
 2. Backend setting
 ```
